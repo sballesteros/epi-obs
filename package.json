@@ -1,0 +1,25 @@
+{
+  "name": "epi-obs",
+  "version": "0.0.0",
+  "description": "Classical observation models",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sballesteros/epi-obs.git"
+  },
+  "keywords": [
+    "state",
+    "space",
+    "models",
+    "observation",
+    "model"
+  ],
+  "author": "Sebastien Ballesteros",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/sballesteros/epi-obs/issues"
+  }
+}
