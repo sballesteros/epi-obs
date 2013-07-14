@@ -14,7 +14,7 @@ exports.oBinomial = {
 
 
 exports.strainBinomial = { 
-  id: 'strain',
+  id: 'strainBinomial',
   parameter: [
     {id: "rep",   comment: "reporting rate"},
     {id: "prop",  comment: "proportion of the population under surveillance"},
